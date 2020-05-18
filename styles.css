@@ -50,13 +50,6 @@ section {
     padding: 15px;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
-}
-
 figcaption {
     text-align: center;
     font-style: italic;
@@ -64,6 +57,15 @@ figcaption {
     padding: 10px;
 }
 
+/*ONE MANDATED CLASS*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+/*ONE MANDATED TAG*/
 #training {
     width: 50%
 }
