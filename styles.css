@@ -4,6 +4,9 @@ body {
     margin: 0 auto;
     background-color: yellow;
     font-size: 28px;
+    background-image: url("https://previews.dropbox.com/p/thumb/AAwtIZrjapqi0q9fVxOnyvjvLUP_fcHlBU3Jpm8NfjuetMJT0jGxVtViKUnIue78w8mWAmwWghUdxGlD6IjdBKRUgLFk314XmBq_UQxQxcVvVmwRez-MbQpu6edq5luUkyPSnaOcUmU-YvkBp0RX1vYNT-1QeMZs_UPKjpfzYN8e8M4_2Tbo8AsqndDqHtnQm-rVi4dFgWTCJRDPIY128vmZ0LuYAkKYj7yLpJ0AgHMtjCdS8HwLO_4XSGw381x-smhMEyemlDy1ir9bjWG6hTBeOARhji56AuNCPXjI8DZc3sZwEzTfjg9XyvpEU-rNU9rNYL6irFazkA0g1aknQTAgkcWIh5hHWpo4IvOsmX095w/p.jpeg?fv_content=true&size_mode=5");
+    background-repeat: repeat;
+    background-size: 250px;
 }
 
 header,main,footer {
@@ -11,11 +14,6 @@ header,main,footer {
     color: yellow;
     padding: 15px 25px;
     font-family: Courier New, monospace;
-}
-
-footer {
-    font-size: 12px;
-    text-align: center;
 }
 
 h1 {
@@ -32,9 +30,15 @@ h2 {
 }
 
 p {
+    font-size: 20px;
     padding: 15px;
     width: 80%;
     margin-left: 125px;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
 }
 
 nav ul {
@@ -81,7 +85,7 @@ a:link, a:visited {
 }
 
 a:hover {
-    color: red;
+    color: blue;
 }
 
 a:active {
