@@ -4,7 +4,7 @@ body {
     margin: 0 auto;
     background-color: yellow;
     font-size: 28px;
-    background-image: url("https://previews.dropbox.com/p/thumb/AAzfy0hLyWwxaugK3t13NYFAJXWtam5o-cI12i2a3wX1DCmF_sU8WkzdUsjvPblTcOqOli6EgaF7X-RKF-TmnRg3c4ktPmg_uepjK5iV0wkU5MO4txmMqsqAHQ8fdYZf26HwOJUhv1DhVA5_lf5X5C-j7bV1ewa_JXZKT-Y93Y8RB4oVWeBxafIWFjg-8ryiUXPVTP9tw30sfDnNUMAoG6rUuNxIYP1udHHS5WIQfHONO7GP1-ppTTNM2PmWg9IcIvlAG2bDa-cPkE8MBMVc4OQjmexP2qm8JMLIb2_fR60FZz77CBx1DrcJCyhzQXj78C3IoTMNhpGrTXNbqdNZBaZwg4og7CQxp8igGUggiG2g2Q/p.jpeg?fv_content=true&size_mode=5");
+    background-image: url("images/all_midoriya.jpg");
     background-repeat: repeat;
     background-size: 285px;
     background-attachment: fixed;
@@ -44,7 +44,7 @@ img {
     border-width: 30px;
     padding: 70px;
     border-style: solid;
-    border-image-source: url("https://previews.dropbox.com/p/thumb/AAw0o4iP7gRHMKF46TW0Hxj6hKFSUZfWFg5CSK-Zc7E8FFJgnO4Em8mNxMxKsn9eQFVmAxpHXC1_nAwkOsKDn1_C5F_BQ4-B1kez38Hh95D67nIVJH49ZSrLXQpDBbYdCuuqMP2vRtpLYj74n_64WunYB1XwQr4EGkfr2HQPhYUoK1-q5expt6GQHqz56LMuliUnPsnxJakN0mHQ3COpoDxgoKBdyShRPZapknue0SkutnvJYeOwjYbVBtbr4ckzwn0kkEv9qM9z9xuwsgM_OTI_VcDiWSKfTneRO959EkpNrVnelHIP7TP-zQSURDIEwHv5anbCt5EoIOq72udcdaZESj99yWjl8RQRIDlKFwChtkA98cnTCKwH85GoFg87akw/p.jpeg?fv_content=true&size_mode=5");
+    border-image-source: url("images/grid.jpg");
     border-image-slice: 106;
     border-image-width: 100px;
     border-image-repeat: round;
